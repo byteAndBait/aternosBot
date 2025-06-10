@@ -2,12 +2,12 @@
   "bot-account": {
     "username": "Fawzeya",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
 
   "server": {
     "ip": "ElManshiaElKobra.aternos.me",
-    "port": 24403,
+    "port":  37842,
     "version": "1.12.1"
   },
   
