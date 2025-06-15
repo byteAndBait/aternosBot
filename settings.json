@@ -26,11 +26,11 @@
 
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": false
     },
 
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 60,
 
