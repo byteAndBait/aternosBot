@@ -24,6 +24,7 @@ function createBot() {
       host: config.server.ip,
       port: config.server.port,
       version: config.server.version,
+      viewDistance: 10,
    });
 
    bot.loadPlugin(pathfinder);
